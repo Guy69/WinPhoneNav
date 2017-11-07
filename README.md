@@ -1,2 +1,2 @@
 # WinPhoneNav
-application for Windows Phone for sailing navigation
+Using Windows Phone in sailing navigation context
